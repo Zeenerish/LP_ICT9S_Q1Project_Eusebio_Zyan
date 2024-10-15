@@ -1,0 +1,75 @@
+h1 {
+background: darkblue
+text-align: left;
+border: solid;
+Margin: 10px;
+Padding: 5px;
+
+color: white;
+}
+
+p1 {
+color: white;  
+}
+
+img {
+width: 250px;
+margin: 10px;
+border-radius: 10px;
+border: solid;
+}
+
+body {
+background-image: url("Pokecard.png");
+}
+
+div.sigma{
+text-align: center;
+font-size: 15px;
+}
+
+div.signal{
+text-align:center;
+font-size: 10px;  
+color: white;
+}
+
+#absolute{
+border: darkslateblue;
+margin: 1000px;
+padding: 10px;
+}
+
+div.another{
+text-align: left;
+font-size: 15px;
+}
+
+div.typeshoot{
+text-align: left;
+font-size: 10px;  
+color: white;
+}
+
+div.bfg{
+text-align: right;
+font-size: 15px;
+}
+
+div.trinity{
+text-align: right;
+font-size: 10px;  
+color: white;
+}
+
+div.HOLYMOLY{
+text-align: right;
+font-size: 15px;
+color: white;
+}
+
+div.ITSWATERMELON{
+text-align: right;
+font-size: 10px;  
+color: white;
+}
